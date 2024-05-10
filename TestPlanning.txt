@@ -1,0 +1,5 @@
+1) Ha a primaryTorpedoStore üres, akkor a secondaryTorpedoStore tüzel.
+2)
+3)
+4)
+5)
